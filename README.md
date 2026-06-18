@@ -1,4 +1,4 @@
-# Housing-price-prediction
+# Housing Price Prediction using Machine Learning
 
 # About the Project
  
